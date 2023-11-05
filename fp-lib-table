@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Inductor_SMD_narrow")(type "KiCad")(uri "${KIPRJMOD}/library/Inductor_SMD_narrow.pretty")(options "")(descr ""))
+)
